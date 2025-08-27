@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://WarfareCode.github.io/Demo</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://WarfareCode.github.io/Demo</link></image><lastBuildDate>Sun, 24 Aug 2025 07:33:21 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>查看Unit的具体版本号技巧</title><link>https://WarfareCode.github.io/Demo/post/cha-kan-Unit-de-ju-ti-ban-ben-hao-ji-qiao.html</link><description>[https://blog.csdn.net/qq_36303853/article/details/143036345](url)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://WarfareCode.github.io/Demo</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://WarfareCode.github.io/Demo</link></image><lastBuildDate>Wed, 27 Aug 2025 00:45:33 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>离线实时语音识别功能</title><link>https://WarfareCode.github.io/Demo/post/li-xian-shi-shi-yu-yin-shi-bie-gong-neng.html</link><description>### **1. 最紧凑、最轻量级的ASR模型：Vosk**
+
+网址：https://alphacephei.com/vosk/index.zh
+模型文件：https://alphacephei.com/vosk/models
+
+&lt;img width='1214' height='426' alt='Image' src='https://github.com/user-attachments/assets/b2efc0e7-1cb6-41c2-ae69-6ab2a4d81e4e' /&gt;
+
+在众多 ASR 工具中，Vosk 凭借以下核心优势脱颖而出： 1. 完全开源免费 Vosk 基于 Apache 2.0 协议开源，允许商业使用且无需支付授权费用，对个人开发者和中小企业非常友好。</description><guid isPermaLink="true">https://WarfareCode.github.io/Demo/post/li-xian-shi-shi-yu-yin-shi-bie-gong-neng.html</guid><pubDate>Wed, 27 Aug 2025 00:45:08 +0000</pubDate></item><item><title>查看Unit的具体版本号技巧</title><link>https://WarfareCode.github.io/Demo/post/cha-kan-Unit-de-ju-ti-ban-ben-hao-ji-qiao.html</link><description>[https://blog.csdn.net/qq_36303853/article/details/143036345](url)
 
 1. 具体方法：用文本打开某个**level**文件（其他二进制文件也可以，挑个_小的二进制文件_打开会快点）
 
