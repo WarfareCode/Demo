@@ -1,1 +1,1 @@
-https://ninewiki.com/guide/sea-power-how-to-create-mod/
+https://steamcommunity.com/sharedfiles/filedetails/?id=3364482257
