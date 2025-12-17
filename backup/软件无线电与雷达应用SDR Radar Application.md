@@ -11,3 +11,7 @@ A real-time radar which can support various SDR platforms.
 Radar is a SDR software which uses ambiguity function which is usually it is called passive radar
 
 <img width="1249" height="739" alt="Image" src="https://github.com/user-attachments/assets/0d4eaebb-2108-4ebc-ab87-2c962541a07f" />
+
+（5）https://github.com/DanielKami/PasiveRadar2
+
+<img width="1906" height="1012" alt="Image" src="https://github.com/user-attachments/assets/88e3bc39-fa90-4a61-8ecf-3773919a6033" />
