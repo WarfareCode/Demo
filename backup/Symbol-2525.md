@@ -1,0 +1,8 @@
+（1）https://www.symbol.army/
+（2）https://docs.orbat-mapper.app/
+（3）https://explorer.milsymb.net/#/explore/
+（4）https://github.com/Esri/joint-military-symbology-xml
+（5）https://github.com/kjellmf/sidc-picker
+（6）https://sidc.milsymb.net/#/APP6
+（7）https://github.com/spatialillusions/mil-std-2525
+（8）https://github.com/spatialillusions/milsymbol
