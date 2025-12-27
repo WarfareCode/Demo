@@ -6,3 +6,5 @@
 （6）https://sidc.milsymb.net/#/APP6
 （7）https://github.com/spatialillusions/mil-std-2525
 （8）https://github.com/spatialillusions/milsymbol
+（9）http://www.mapsymbs.com/index.html
+2525相关的符号字体
